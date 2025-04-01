@@ -1,5 +1,5 @@
 ## EN
-# Scripts to merge bases with treasure chest coordinates for the MapPins addon
+# Scripts for finding duplicates in the coordinates of treasure chests for the MapPins addon
 ### <p align="center">Duplicate_chest</p>
 - The script searches for duplicate coordinates within the locations specified in the file, taking into account the specified error margin
 ### ⚙️How to use
@@ -22,7 +22,7 @@ UI_Map_ScaleCaller004={[1]={{.505,.223}}}
 ![](https://i.imgur.com/8kPm94Z.png)
 
 ## RU
-# Скрипты для объединения баз с координатами сундука с сокровищами для аддона MapPins
+# Скрипты для поиска дубликатов в координатах сундуков с сокровищами для аддона MapPins
 ### <p align="center">Duplicate_chest</p>
 - Скрипт выполняет поиск дублирующихся координат внутри локаций, указанных в файле, с учетом заданной погрешности
 ### ⚙️Использование
